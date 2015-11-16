@@ -21,6 +21,7 @@ title: AM207 Stochastic Methods for Data Analysis, Inference and Optimization
 #### Instructors
 
 * Verena Kaynig-Fittkau, Computer Science, Office hours: TBA
+* Pavlos Protopapas, Computational Science
 
 #### Staff
 
