@@ -15,7 +15,7 @@ title: AM207 Stochastic Methods for Data Analysis, Inference and Optimization
 
 #### Lectures and Sections
 
-* Lectures are 11:30 - 1pm on Tuesdays & Thursdays in TBA
+* Lectures are 11:30 - 1pm on Tuesdays & Thursdays in MD G115
 * Friday lab time TBA
 
 #### Instructors
@@ -30,6 +30,7 @@ title: AM207 Stochastic Methods for Data Analysis, Inference and Optimization
 * Giri Gopalan
 * Alexander Isakov 
 * Richard Kim
+* Wei Dai
 
 Contact the staff at <a href="mailto:staff@am207.org">staff at am207 dot org</a>.
 
