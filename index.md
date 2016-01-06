@@ -9,7 +9,7 @@ title: AM207 Stochastic Methods for Data Analysis, Inference and Optimization
 <br />
 
 <div style="float: left; padding:50px">
-    <img src="http://am207.github.io/2015/images/mcmc-3d.gif" alt="MCMC" HEIGHT="200" WIDTH="200" />
+    <img src="http://am207.github.io/2016/images/mcmc-3d.gif" alt="MCMC" HEIGHT="200" WIDTH="200" />
 </div>
 
 
