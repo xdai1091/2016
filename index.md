@@ -30,6 +30,7 @@ title: AM207 Stochastic Methods for Data Analysis, Inference and Optimization
 * Giri Gopalan
 * Alexander Isakov 
 * Richard Kim
+* Steve Klosterman
 * Wei Dai
 
 Contact the staff at <a href="mailto:staff@am207.org">staff at am207 dot org</a>.
