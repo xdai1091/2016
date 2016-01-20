@@ -33,7 +33,7 @@ title: AM207 Stochastic Methods for Data Analysis, Inference and Optimization
 * Steve Klosterman
 * Wei Dai
 
-Contact the staff at <a href="mailto:staff@am207.org">staff at am207 dot org</a>.
+Contact the staff at <a href="mailto:am207tas@gmail.com">our staff mailing list</a>.
 
 
 <br />
