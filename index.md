@@ -26,12 +26,13 @@ title: AM207 Stochastic Methods for Data Analysis, Inference and Optimization
 #### Staff
 
 
+* Wei Dai
 * Rafael Martinez Galarza 
 * Giri Gopalan
 * Alexander Isakov 
 * Richard Kim
 * Steve Klosterman
-* Wei Dai
+* Xide Xia
 
 Contact the staff at <a href="mailto:am207tas@gmail.com">our staff mailing list</a>.
 
