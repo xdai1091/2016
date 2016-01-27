@@ -16,11 +16,11 @@ title: AM207 Stochastic Methods for Data Analysis, Inference and Optimization
 #### Lectures and Sections
 
 * Lectures are 11:30 - 1pm on Tuesdays & Thursdays in MD G115
-* Friday lab time TBA
+* Friday lab time is 2-4pm in Cruft 309
 
 #### Instructors
 
-* Verena Kaynig-Fittkau, Computer Science, Office hours: TBA
+* Verena Kaynig-Fittkau, Computer Science, Office hours: Thursdays 2-3pm
 * Pavlos Protopapas, Computational Science
 
 #### Staff
